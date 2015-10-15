@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 mayor = 0
+print "Mete una chorra de numeros positivos y te digo cual es el mayor"
 num = int(raw_input('mete un numero positivo (si te aburres mete un negativo y terminas): '))
 while num >=0:
 	
